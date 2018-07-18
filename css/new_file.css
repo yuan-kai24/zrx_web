@@ -1,0 +1,66 @@
+/*
+ * 登录选项卡的css样式设置
+ */
+
+#tops {
+	width: 200px;
+	height: 200px;
+	position: fixed;
+	top: -200px;
+	background: cornflowerblue;
+	z-index: 50;
+}
+
+#qwe {
+	width: 220px;
+	height: 100px;
+	position: fixed;
+	left: -200px;
+	z-index: 100;
+}
+
+#qws {
+	width: 200px;
+	height: 100px;
+	background: aquamarine;
+	float: left;
+	text-align: center;
+}
+
+#op {
+	width: 20px;
+	height: 50px;
+	background: aqua;
+	float: left;
+	margin-top: 25px;
+	cursor: pointer;
+}
+#usern,#pass{
+	width: 120px;
+	border:1px solid blue;
+}
+#butdl{
+	width: 75px;
+	height: 30px;
+}
+
+#usertoux{
+	width: 60px;
+	height: 60px;
+	background: white;
+	float: left;
+	cursor: pointer;
+	border-radius: 30px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+#userrelax{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	float: left;
+	margin-left: 10px;
+	font-size: 24px;
+	line-height: 100px;
+	color: firebrick;
+}
